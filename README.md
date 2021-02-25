@@ -1,4 +1,6 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib - The Power of Plots
+
+The goal of this project is to showcase the data in Matplotlib and Pandas graphs. As a senior data analyst, I applied a lot of munging to get the data for the plots and, below you find the step by step. 
 
 ## Background
 
